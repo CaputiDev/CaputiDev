@@ -6,18 +6,15 @@
 - 💬 Ask me about programming in **C** and **JavaScript**.
 
 ## Technologies and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
+
+<a href="https://github.com/CaputiDev">
+    <img src="https://skillicons.dev/icons?i=c,js,php,mysql,java,html,css,git,nodejs"/>
+  </a>
 
 ## Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-caputi-21304b2b6)   
-📩 **Email:** [lcaputi2@gmail.com](mailto:lcaputi2@gmail.com)
+<a href= "https://www.linkedin.com/in/thiago-caputi-21304b2b6">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>   
+  </a>
+  <a href= https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtVtbkwnTHShtsVKqFRGvflqcJKPbdSVxpLdqFTVLDhCmnlLXrskjWrPSJZzhQnQwL>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
