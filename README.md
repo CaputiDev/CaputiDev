@@ -8,7 +8,7 @@
 ## Technologies and Tools:
 
 <a href="https://github.com/CaputiDev">
-    <img src="https://skillicons.dev/icons?i=c,js,php,mysql,java,html,css,git,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=c,js,php,mysql,java,html,css,git,nodejs,figma,express"/>
   </a>
 
 ## Contact:
