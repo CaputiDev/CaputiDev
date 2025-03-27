@@ -12,9 +12,9 @@
   </a>
 
 ## Contact:
-<a href= "https://www.linkedin.com/in/thiago-caputi-21304b2b6">
+<a href= "https://www.linkedin.com/in/thiago-caputi-21304b2b6" target= "_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"/>   
   </a>
-  <a href= https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtVtbkwnTHShtsVKqFRGvflqcJKPbdSVxpLdqFTVLDhCmnlLXrskjWrPSJZzhQnQwL>
+  <a href= https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtVtbkwnTHShtsVKqFRGvflqcJKPbdSVxpLdqFTVLDhCmnlLXrskjWrPSJZzhQnQwL target= "_blank">
   <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
