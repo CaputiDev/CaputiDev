@@ -19,5 +19,5 @@
 </p>
 
 ## Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-caputi-21304b2b6) \  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-caputi-21304b2b6)   
 📩 **Email:** [lcaputi2@gmail.com](mailto:lcaputi2@gmail.com)
