@@ -20,4 +20,4 @@
 
 ## Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-caputi-21304b2b6)
-[![Email](https://img.shields.io/badge/Email-lcaputi2@gmail.com-blue)](mailto:lcaputi2@gmail.com)
+📩 **Email:** [lcaputi2@gmail.com](mailto:lcaputi2@gmail.com)
