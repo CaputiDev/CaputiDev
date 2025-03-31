@@ -3,7 +3,6 @@
 - 🎓 Currently, I am a student in the **Internet Systems Technology program** at **IFSUL** Charqueadas.
 - 💼 Working at **Compass UOL**.
 - 🌱 Learning more about **Backend development**.
-- 💬 Ask me about programming in **C** and **JavaScript**.
 
 ## Technologies and Tools:
 
