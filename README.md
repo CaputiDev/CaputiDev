@@ -1,8 +1,8 @@
 #  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="25"/> Hello! I'm Thiago Caputi 
 
-- 🎓 Currently, I am a student in the **Internet Systems Technology program** at **IFSUL** Charqueadas.
+🎓 Currently, I am a student in the **Internet Systems Technology program** at **IFSUL** Charqueadas.
   
-- 🌱 Learning more about:
+🌱 Learning more about:
 - **Backend development**
 - **Clean Code**
 - **Machine Learning and A.I**
