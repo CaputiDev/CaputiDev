@@ -3,6 +3,7 @@
 🎓 Currently, I am a student in the **Internet Systems Technology program** at **IFSUL** Charqueadas.
   
 🌱 Learning more about:
+- **Software engineering**
 - **Backend development**
 - **Clean Code**
 - **Machine Learning and A.I**
