@@ -17,7 +17,3 @@
 ## Contact:
 <a href= "https://www.linkedin.com/in/caputi" target= "_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"/>   
-  </a>
-  <a href= https://mail.google.com/mail/u/0/#inbox?compose=VpCqJPtVtbkwnTHShtsVKqFRGvflqcJKPbdSVxpLdqFTVLDhCmnlLXrskjWrPSJZzhQnQwL target= "_blank">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
