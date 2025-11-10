@@ -16,4 +16,8 @@
 
 ## Contact:
 <a href= "https://www.linkedin.com/in/caputi" target= "_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>   
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://github.com/CaputiDev">
+  <img src="https://skillicons.dev/icons?i=gmail"/ >
+</a>
