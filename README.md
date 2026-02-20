@@ -11,7 +11,7 @@
 ## Technologies and Tools:
 
 <a href="https://github.com/CaputiDev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,php,mysql,java,nodejs,figma,git,linux,docker"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,php,mysql,java,nodejs,figma,git,linux,docker,react,vite"/>
   </a>
 
 ## Contact:
